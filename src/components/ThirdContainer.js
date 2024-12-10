@@ -1,5 +1,4 @@
 import React from 'react'
-import ItemCard from './ItemCard'
 import ItemCard2 from './ItemCard2'
 
 const ThirdComponent = () => {

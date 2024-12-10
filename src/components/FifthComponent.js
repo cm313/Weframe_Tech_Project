@@ -1,7 +1,7 @@
 import React from 'react'
 import picture from "../images/BUFFET.png";
 import Image from 'next/image'
-import rightarrow from "../images/rightarrow.png"
+
 
 const FifthComponent = () => {
   return (

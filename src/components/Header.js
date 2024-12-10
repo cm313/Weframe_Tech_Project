@@ -2,7 +2,7 @@ import React from 'react'
 import Image from "next/image";
 import logo from "../images/Group.png";
 import bulb from "../images/lightbulb-01.png";
-import love from "../images/Icon.png"
+import love from "../images/icon.png"
 import cartIcon from "../images/carticon.png";
 import avatar from "../images/Avatar.png";
 import downarrow from "../images/downarrow.png";
